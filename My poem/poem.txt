@@ -6,3 +6,8 @@ Purple Tulip
 Green Grass
 Brown Soil
 Buzzy Bee
+Golden Sun
+
+These are the things in the garden.
+And the Bee.
+Sun
